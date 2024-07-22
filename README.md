@@ -29,7 +29,7 @@ A GitHub clone application built using the MERN stack (MongoDB, Express.js, Reac
 1. **Clone the Repository:**
 
 ```
-   git clone https://github.com/abhishekpaturkar/github-clone.git
+   git clone https://github.com/atharvkhardekar/github-clone.git
 ```
 
 2. **Navigate to the Project Directory:**
@@ -109,5 +109,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any questions or support, contact:
 
-- Email: paturkarabhishek03@gmail.com
-- GitHub: abhishekpaturkar
+- Email: khardekaratharv@gmail.com
+- GitHub: atharvkhardekar
